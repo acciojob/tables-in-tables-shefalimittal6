@@ -1,2 +1,2 @@
-// JavaScript functionality can be added here if required in the future
-console.log("Nested Tables Loaded Successfully");
+// JavaScript functionality can be added as needed.
+console.log("Tables with nested structure rendered successfully.");

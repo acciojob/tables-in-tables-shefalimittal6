@@ -15,13 +15,15 @@ body {
     border-collapse: collapse;
 }
 
-.nested-table th, .nested-table td {
+.nested-table th,
+.nested-table td {
     padding: 8px;
     text-align: center;
 }
 
 .nested-table th {
-    background-color: #f0f0f0;
+    background-color: #e0e0e0;
+    font-weight: bold;
 }
 
 ul {
@@ -31,4 +33,8 @@ ul {
 
 ul li {
     margin: 5px 0;
+}
+
+.nested-table td[style] {
+    font-weight: bold;
 }
